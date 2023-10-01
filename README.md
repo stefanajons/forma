@@ -2,7 +2,8 @@
 
 # OCamlFormat
 
-OCamlFormat is a tool to format OCaml code.
+Forma 
+is a tool to format OCaml code.
 
 OCamlFormat works by parsing source code using the OCaml compiler's standard parser, deciding where to place comments in the parse tree, and writing the parse tree and comments in a consistent style.
 
